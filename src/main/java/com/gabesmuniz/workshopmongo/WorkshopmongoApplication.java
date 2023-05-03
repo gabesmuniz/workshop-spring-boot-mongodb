@@ -10,3 +10,5 @@ public class WorkshopmongoApplication {
 		SpringApplication.run(WorkshopmongoApplication.class, args);
 	}
 }
+//Consultas MongoDB
+//https://docs.spring.io/spring-data/mongodb/docs/current/reference/html/
